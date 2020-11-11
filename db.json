@@ -1,5 +1,5 @@
 {
-  'login': {
-     accessToken: 'GRANTED'
+  "login": {
+     "accessToken": "GRANTED"
   }
 }
